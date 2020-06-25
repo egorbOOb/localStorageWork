@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .jshintrc
+#	new file:   css/normalize.css
+#	new file:   css/style.css
+#	new file:   img/check.png
+#	new file:   img/plus.png
+#	new file:   img/trash.png
+#	new file:   img/uncheck.png
+#	new file:   index.html
+#	new file:   script.js
+#
